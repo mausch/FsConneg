@@ -1,0 +1,1 @@
+FsConneg was merged into [FSharpx](https://github.com/fsharp/fsharpx/blob/master/src/FSharpx.Http/Conneg.fs)
